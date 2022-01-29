@@ -1,0 +1,2 @@
+readme.md - пояснительная записка
+requirements - версии 
